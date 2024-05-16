@@ -1,7 +1,14 @@
-# Pr·tica: Formul·rio de Contato
+# Pr√°tica: Formul√°rio de Contato
 
-Nesta pr·tica, foi criado um formul·rio de contato usando HTML, CSS e Javascript. As tarefas s„o:
+Nesta pr√°tica, foi criado um formul√°rio de contato usando HTML, CSS e Javascript. As tarefas s√£o:
 
-1. criar um formul·rio de contato em HTML contendo os campos nome, email, mensagem e um bot„o ìEnviarî;
-2. garantir que, quando o usu·rio pressionar o bot„o ìEnviarî do formul·rio, a aplicaÁ„o exiba na tela uma janela de alerta com os dados preenchidos ( deve-se usar JavaScript para implementar este comportamento);
-3. o formul·rio dever· estar centralizado na tela (deve-se usar CSS para tratar o estilo).
+1. criar um formul√°rio de contato em HTML contendo os campos nome, email, mensagem e um bot√£o ‚ÄúEnviar‚Äù;
+2. garantir que, quando o usu√°rio pressionar o bot√£o ‚ÄúEnviar‚Äù do formul√°rio, a aplica√ß√£o exiba na tela uma janela de alerta com os dados preenchidos ( deve-se usar JavaScript para implementar este comportamento);
+3. o formul√°rio dever√° estar centralizado na tela (deve-se usar CSS para tratar o estilo).
+
+
+## Resultado
+
+<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/7bcaebdd-d095-4732-89f8-883c1709769d"/>
+<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/d1f75dde-db41-4c24-bac2-1c3f1e823897"/>
+
