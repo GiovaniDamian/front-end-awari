@@ -9,6 +9,5 @@ estilizar (formatar) os elementos da página usando CSS.
 
 ## Resultado
 
-<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/7bcaebdd-d095-4732-89f8-883c1709769d"/>
-<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/d1f75dde-db41-4c24-bac2-1c3f1e823897"/>
+<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/d98e567c-7e77-40eb-85e3-5450edf01faa"/>
 
