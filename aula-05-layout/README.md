@@ -1,13 +1,8 @@
-# Prática: Mini Blog Dinâmico
+# Prática: Modelos de layout da Web
 
-Nesta prática, foi criado um mini blog com HTML, CSS e JavaScript. As tarefas são:
+Nesta prática, foi criado dois exemplos de ferramentas para trabalhar o layout em CSS. 
 
-1. criar uma página web que contenha alguns posts listados;
-2. exibir posts na página usando JavaScript;
+1. Utilizando Flexbox;
+2. Utilizando Grid;
+
 estilizar (formatar) os elementos da página usando CSS.
-
-
-## Resultado
-
-<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/d98e567c-7e77-40eb-85e3-5450edf01faa"/>
-
