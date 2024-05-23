@@ -1,32 +1,32 @@
-# Prática: Lógica de Programação
+# PrÃ¡tica: LÃ³gica de ProgramaÃ§Ã£o
 
-Esta prática contém uma lista de 11 exercícios em JavaScript. 
+Esta prÃ¡tica contÃ©m uma lista de 11 exercÃ­cios em JavaScript. 
 
 
-## Exercícios
+## ExercÃ­cios
 
-1. Faça um programa que mostre a contagem de 1 a 10.
+1. FaÃ§a um programa que mostre a contagem de 1 a 10.
 
-2. Faça um programa que mostre a contagem de 10 a 1.
+2. FaÃ§a um programa que mostre a contagem de 10 a 1.
 
-3. Faça um programa que recebe um número inteiro e mostre a contagem de 1 até tal número.
+3. FaÃ§a um programa que recebe um nÃºmero inteiro e mostre a contagem de 1 atÃ© tal nÃºmero.
 
-4. Faça um programa que mostre todos os números primos de 0 a 100.
+4. FaÃ§a um programa que mostre todos os nÃºmeros primos de 0 a 100.
 
-5. Faça um programa que mostre as tabuadas dos números de 1 a 10 usando laços de repetição.
+5. FaÃ§a um programa que mostre as tabuadas dos nÃºmeros de 1 a 10 usando laÃ§os de repetiÃ§Ã£o.
 
-6. Faça um programa que recebe um número inteiro e mostre a tabuada desse número.
+6. FaÃ§a um programa que recebe um nÃºmero inteiro e mostre a tabuada desse nÃºmero.
 
-7. Faça um programa que recebe um número inteiro e mostre os números pares e ímpares (separados), de 1 até esse inteiro.
+7. FaÃ§a um programa que recebe um nÃºmero inteiro e mostre os nÃºmeros pares e Ã­mpares (separados), de 1 atÃ© esse inteiro.
 
-8. Faça um programa que receba 5 idades, calcule e mostre a média das idades digitadas.
+8. FaÃ§a um programa que receba 5 idades, calcule e mostre a mÃ©dia das idades digitadas.
 
-9. Faça um programa que receba a idade de dez pessoas e que calcule e mostre a quantidade de pessoas com idade maior ou igual a 18 anos.
+9. FaÃ§a um programa que receba a idade de dez pessoas e que calcule e mostre a quantidade de pessoas com idade maior ou igual a 18 anos.
 
-10. Faça um programa que lê o tamanho dos lados de um quadrado e imprime um quadrado do mesmo tamanho usando asteriscos.
+10. FaÃ§a um programa que lÃª o tamanho dos lados de um quadrado e imprime um quadrado do mesmo tamanho usando asteriscos.
 
-11. Faça um programa que recebe a altura de um triangulo em um número inteiro e imprima-o utilizando asteriscos.
+11. FaÃ§a um programa que recebe a altura de um triangulo em um nÃºmero inteiro e imprima-o utilizando asteriscos.
 	
 ## Resultado
 
-<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/d98e567c-7e77-40eb-85e3-5450edf01faa"/>
+<img height="360em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/f387f20c-26f0-4e46-a989-5828179ed7e1"/>
