@@ -1,11 +1,11 @@
-# Prática: Lista de Usuários
+# PrÃ¡tica: Lista de UsuÃ¡rios
 
-Nesta prática, as tarefas foram:
+Nesta prÃ¡tica, as tarefas foram:
 
-1. criar uma nova aplicação React.js;
-2. criar um componente responsável por exibir as informações sobre usuários na aplicação (item);
-3. criar um componente responsável por listar os usuários como itens (list);
-4. exibir o componente list na página principal (o componente list deve receber a lista de usuários por meio desta página).foi criado dois exemplos de ferramentas para trabalhar o layout em CSS. 
+1. criar uma nova aplicaÃ§Ã£o React.js;
+2. criar um componente responsÃ¡vel por exibir as informaÃ§Ãµes sobre usuÃ¡rios na aplicaÃ§Ã£o (item);
+3. criar um componente responsÃ¡vel por listar os usuÃ¡rios como itens (list);
+4. exibir o componente list na pÃ¡gina principal (o componente list deve receber a lista de usuÃ¡rios por meio desta pÃ¡gina).foi criado dois exemplos de ferramentas para trabalhar o layout em CSS. 
 
 ## Resultado
-<img height="460em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/2e0de459-23c3-482f-a81b-7e995a8acc2c"/>
+<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/29986dc6-aac2-4008-9d0a-484e7b413483"/>
