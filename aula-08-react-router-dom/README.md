@@ -18,4 +18,6 @@ Nesta prática, as tarefas foram:
 - ao acessar uma url inexistente, deve ser exibida a página Error, com a mensagem “Página não encontrada” e uma opção para voltar à página Home.
 
 ## Resultado
-<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/29986dc6-aac2-4008-9d0a-484e7b413483"/>
+<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/66b43dec-bb74-434f-8e3a-ed067c3b43fc"/>
+<img height="360em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/a8024f6c-0254-42bc-a694-7f382adb8b23"/>
+<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/5cab5bcf-1043-4be7-8d7f-4b8bf29f899f"/>
