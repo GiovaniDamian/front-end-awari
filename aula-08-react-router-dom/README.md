@@ -1,4 +1,4 @@
-# Prática: Lista de Usuários com Navegação
+# Prática: Lista de Usuários com Navegação - aula-08
 
 Nesta prática, as tarefas foram:
 
@@ -21,3 +21,18 @@ Nesta prática, as tarefas foram:
 <img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/66b43dec-bb74-434f-8e3a-ed067c3b43fc"/>
 <img height="360em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/a8024f6c-0254-42bc-a694-7f382adb8b23"/>
 <img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/5cab5bcf-1043-4be7-8d7f-4b8bf29f899f"/>
+
+
+# Prática: Lista de Usuários com Navegação Aprimorada - aula-09-dx
+
+Esta prática usará como base o exercício da aula anterior, “Lista de usuários”, com navegação entre páginas. As tarefas foram:
+
+- adicionar à configuração do ESLint, que já vem com o Create React App, as seguintes regras:
+   * semi com o chave/valor “error” e “always”, para sempre utilizar “;” no projeto;
+   * quotes com o chave/valor “error” e “single”, para sempre utilizar aspas simples no projeto;
+   * adicionar o comando lint aos scripts do projeto eslint ./src/**/*.{js,jsx};
+- criar o arquivo .editorconfig com uma configuração padrão, para padronizar a indentação do código;
+- instalar o CommitLint com @commitlint/config-conventional para estender o padrão Conventional Commits;
+- instalar o Husk;
+- adicionar o hook pre-commit para executar o comando nom run lint;
+- adicionar o hook commit-msg para validar as mensagens de commit.
