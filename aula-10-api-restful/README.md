@@ -9,4 +9,4 @@ Nesta prática, as tarefas foram:
 - por fim, exibir nome e imagem dos Pokémons na página.
 
 ## Resultado
-<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/66b43dec-bb74-434f-8e3a-ed067c3b43fc"/>
+<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/5f29fd79-69cc-4908-8c2c-11d57979c2d3"/>
