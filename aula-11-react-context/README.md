@@ -13,4 +13,8 @@ Esta atividade será realizada em duas partes:
 
 <img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/3cb68c12-236a-438e-a257-6d5bb0e88a0e"/>
 
+### Context API
 <img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/74a42100-b9a4-4784-9e57-3ceb6eabbb7d"/>
+
+### Redux
+<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/87ecfd10-73c4-4d49-9482-dfcdc2189b2d"/>
