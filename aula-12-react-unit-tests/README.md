@@ -1,20 +1,12 @@
-# Prática: Lista de Pokémons com Favoritos
+# Prática: Implementando Unit Tests
 
-Nesta prática, as tarefas foram:
+Nesta prática, o projeto “Lista de Pokémons” será incrementado com React Units Tests. As tarefas foram:
 
-- Utilizar o app pokemon construido na ultima aula para construir a lista de favoritos;
-- o programa deverá guardar no localStore a lista e atualizar quando selecionado um pokemon.
-
-Esta atividade será realizada em duas partes:
-* Parte 01 - Favoritos com Context API
-* Parte 02 - Favoritos com Redux 
+* configurar os testes usando como base o exercício da aula anterior, ainda sobre os Pokémons;
+* implementar testes unitários nos componentes da aplicação.
 
 ## Resultado
 
-<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/3cb68c12-236a-438e-a257-6d5bb0e88a0e"/>
+<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/db171025-82d7-4589-b36d-089d20536961"/>
+<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/b5b643c3-bf03-451a-a69f-12d45b5c098e"/>
 
-### Context API
-<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/74a42100-b9a4-4784-9e57-3ceb6eabbb7d"/>
-
-### Redux
-<img height="260em" src="https://github.com/GiovaniDamian/front-end-awari/assets/60575219/87ecfd10-73c4-4d49-9482-dfcdc2189b2d"/>
