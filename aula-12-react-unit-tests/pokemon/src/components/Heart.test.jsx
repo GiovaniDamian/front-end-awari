@@ -1,6 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
-import Heart from './Heart';
+import Heart from '../components/Heart';
 
 describe('Heart Component', () => {
     it('should render correctly', () => {

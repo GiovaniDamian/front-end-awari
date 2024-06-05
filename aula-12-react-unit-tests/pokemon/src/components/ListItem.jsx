@@ -10,7 +10,7 @@ function ListItem({ item }) {
     const { name, sprites } = item;
     const sprite = sprites.other['official-artwork'].front_default;
     const isFavorite = favorites.includes(item.id);
-
+    
     const handleClick = () => {
         if (isFavorite) {
             dispatch(actions.remove(item));

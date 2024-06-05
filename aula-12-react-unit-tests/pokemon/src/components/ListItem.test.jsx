@@ -1,7 +1,7 @@
 import { render, screen } from '@testing-library/react';
 import { Provider } from 'react-redux';
 import configureStore from 'redux-mock-store';
-import ListItem from './ListItem';
+import ListItem from '../components/ListItem';
 import { actions } from '../store/favorites/favorites.slice';
 import userEvent from '@testing-library/user-event';
 
